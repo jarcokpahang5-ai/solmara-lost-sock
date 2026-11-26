@@ -16,7 +16,7 @@ stdout, byte-identical to the file (modulo the trailing newline).
 import os
 
 ENTRY = (
-    "Status: living in the dog's bed. He snores, he drools, "
+    "Status: living in the dog's bed now. He snores, he drools — "
     "and honestly? He's a better partner than the foot I left."
 )
 
